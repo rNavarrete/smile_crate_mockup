@@ -120,12 +120,12 @@ body,
   height: 100%;
 }
 .item:nth-child(1) {
-  background-image: url('magenta.png');
+  background-image: url('https://s3.amazonaws.com/rolands_pics/hundred_smiles/magenta.png');
   background-size: 1444px 600px;
 }
 .item:nth-child(2) {
 
-  background-image: url('hangers.jpg');
+  background-image: url('https://s3.amazonaws.com/rolands_pics/hundred_smiles/hangers.jpg');
   background-size: 1444px 600px;
 }
 .item:nth-child(3) {
