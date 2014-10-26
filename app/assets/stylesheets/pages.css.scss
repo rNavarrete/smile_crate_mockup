@@ -7,13 +7,18 @@
   font-size: 14px;
 }
 
+#topnavmenu {
+  margin-right: 5px;
+}
+
 #topnav{
   width: 100%;
   background-color: #0A5089;
   margin-bottom: 0px;
   height: 49px;
-
 }
+
+
 
 #navbar{
   height: 64px;
@@ -33,9 +38,9 @@
   font-size: 25px;
 }
 
-#topnavmenu > li:nth-child(1) > a:hover {
+#topnavmenu > li > a:hover {
 text-decoration: none;
-background-color: linen;
+background-color: #0A5089;
 color: deepskyblue;
 }
 
@@ -44,13 +49,14 @@ color: deepskyblue;
 }
 
 
+
 #login-button{
   font-family: 'Open Sans', sans-serif;
   font-weight: 900;
   margin-top: 6px;
   padding-top: 8px;
   padding-bottom: 8px;
-  background-color: honeydew;
+  background-color: #0A5089;
 
 }
 
@@ -60,13 +66,12 @@ color: deepskyblue;
 
 #rightnav{
   padding-top: 9px;
+  margin-right: 40px;
 }
 
 #rightnav > li > a{
   color: #FE6DFC;
 }
-
-
 
 
 
