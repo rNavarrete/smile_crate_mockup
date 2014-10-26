@@ -2,6 +2,9 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
+
+
+
 #top-headline{
   font-family: 'Lato', sans-serif;
   font-size: 14px;
@@ -86,7 +89,7 @@ color: deepskyblue;
 }
 
 #carousel{
-  height: 600px;
+  height: 588px;
 }
 
 .carousel-fade .carousel-inner .item {
