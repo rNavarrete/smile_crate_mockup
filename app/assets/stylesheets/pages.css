@@ -13,11 +13,11 @@
 
 #topnav{
   width: 100%;
-  background-color: #0A5089;
+  background-color: rgb(24, 113, 119);
   margin-bottom: 0px;
-  height: 49px;
+  height: 38px;
+  border-bottom: ridge 2px #FFFFFF;
 }
-
 
 
 #navbar{
@@ -26,7 +26,7 @@
   width: 100%;
   font-family: 'Open Sans', sans-serif;
   font-weight: 900;
-  border-bottom: solid 1px #28F2B9;
+  border-bottom: ridge 2px #FFFFFF;
   margin-bottom: 0px;
 }
 
@@ -44,20 +44,21 @@ background-color: #0A5089;
 color: deepskyblue;
 }
 
-#topnavmenu > li > a {
-  color: #FFFFFF;
-}
-
-
 
 #login-button{
   font-family: 'Open Sans', sans-serif;
   font-weight: 900;
-  margin-top: 6px;
-  padding-top: 8px;
-  padding-bottom: 8px;
-  background-color: #0A5089;
+  margin-top: 3px;
+  background-color: transparent;
+  padding-bottom: 4px;
+  padding-top: 2px;
 
+}
+
+#topnavmenu > li > a {
+  color: #FFFFFF;
+  padding-bottom: 0px;
+  padding-top: 7px;
 }
 
 .navbar-default .navbar-nav>li>a {
@@ -70,18 +71,17 @@ color: deepskyblue;
 }
 
 #rightnav > li > a{
-  color: #FE6DFC;
+  color: #046380;
 }
 
 
-
 #brandname{
-  color:  #0081CB;
-  font-size: 33px;
+  color:  #046380;
+  font-size: 39px;
   padding-top: 20px;
   font-weight: 600;
   font-family: 'Pacifico', cursive;
-  text-shadow: 2px 2px #28F2B9;
+  text-shadow: 2px 2px #E7E08F;
 
 }
 
