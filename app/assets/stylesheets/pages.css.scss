@@ -9,9 +9,10 @@
 
 #topnav{
   width: 100%;
-  background-color: honeydew;
+  background-color: #0A5089;
   margin-bottom: 0px;
   height: 49px;
+
 }
 
 #navbar{
@@ -31,6 +32,17 @@
 #cart-icon{
   font-size: 25px;
 }
+
+#topnavmenu > li:nth-child(1) > a:hover {
+text-decoration: none;
+background-color: linen;
+color: deepskyblue;
+}
+
+#topnavmenu > li > a {
+  color: #FFFFFF;
+}
+
 
 #login-button{
   font-family: 'Open Sans', sans-serif;
