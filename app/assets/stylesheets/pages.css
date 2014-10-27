@@ -19,7 +19,7 @@
 
 #topnav{
   width: 100%;
-  background-color: rgb(24, 113, 119);
+  background-color: black;
   margin-bottom: 0px;
   height: 34px;
   border-bottom: ridge 2px #FFFFFF;
@@ -82,12 +82,12 @@ color: rgb(136, 250, 214);
 
 
 #brandname{
-  color:  rgb(44, 76, 98);
+  color:  navy;
   font-size: 39px;
   padding-top: 20px;
   font-weight: 600;
   font-family: 'Pacifico', cursive;
-  text-shadow: 2px 2px #E7E08F;
+  text-shadow: 2px 2px #DFD459;
 
 }
 
